@@ -1,0 +1,12 @@
+Steps to set hotspot--|HotWiSpot|---------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+when device manager window pop's up:
+1. Go View ->Show Hidden devices
+2. Go Network Adapters
+3. Go find Microsoft Hosted Network Virtual Adapter
+4. Right Click ->Enable
+5. Close device manager
+6. Wait for app to open 
+7. Walk through app set your hostednetwork
+/////////////////////////////////////////////////////
+if you don't have Microsoft Hosted Network Virtual Adapter..<R.I.P>!!
