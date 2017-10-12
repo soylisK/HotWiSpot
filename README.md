@@ -11,14 +11,17 @@ when will be ready the final executable will be also uploaded
 ##!follow step by step!##
 
 #The big picture of this app is to run terminal commands for setting a wifi hotspot through MVWA(microsoft virtual wifi adapter)
-#and all these commands to run in the backround..
-#while the user is dealing with a gui
+
+and all these commands to run in the backround..
+
+while the user is dealing with a gui
 
 
 #Java gui based on SWING and AWT libs
-#Using jdk 1.8
+Using jdk 1.8
 
 #Add to path
+ 
  jgoodies -common-1.8.0.jar
  jgoodies -common-1.8.0-sources.jar
  jgoodies -forms-1.8.0-sources.jar
