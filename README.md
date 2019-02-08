@@ -1,27 +1,27 @@
 # HotWiSpot
-a simple java gui for setting up a hotspot in windows10
+A simple java gui for setting up a hotspot in windows10
+---------------------------------------------------------------------------
 
-##################################################################
-
-Still underconstruction...
+*Still underconstruction...*
 when will be ready the final executable will be also uploaded
-###################################################################
 
-#For intructions about setting a hotspot read Instructions.txt
-##!follow step by step!##
+_______________________________________________________________________
 
-#The big picture of this app is to run terminal commands for setting a wifi hotspot through MVWA(microsoft virtual wifi adapter)
+*For intructions about setting a hotspot read* ***Instructions.txt**
+- !follow step by step!##
 
-and all these commands to run in the backround..
+- The big picture of this app is to run terminal commands for setting a wifi hotspot through **MVWA(microsoft virtual wifi adapter)**
 
-while the user is dealing with a gui
+*and all these commands to run in the backround..
+
+*while the user is dealing with a gui.
 
 
-#Java gui based on SWING and AWT libs
-Using jdk 1.8
+#Java gui based on ***SWING*** and ***AWT** libs
+Using **jdk 1.8**
 
-#Add to path
- 
+**Add to path**
+ >
  jgoodies -common-1.8.0.jar
  jgoodies -common-1.8.0-sources.jar
  jgoodies -forms-1.8.0-sources.jar
@@ -29,4 +29,4 @@ Using jdk 1.8
 
 
 ##It's developed with Eclipse IDE, so I suggest you to use WindowBuilder add-on , it makes things a lot easier
-#Documantation for WindowBuilder :http://help.eclipse.org/kepler/index.jsp?topic=%2Forg.eclipse.wb.doc.user%2Fhtml%2Findex.html
+> *Documentation for WindowBuilder** :http://help.eclipse.org/kepler/index.jsp?topic=%2Forg.eclipse.wb.doc.user%2Fhtml%2Findex.html
